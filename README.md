@@ -1,1 +1,1 @@
-# merion_materials
+# GoLang Course from MerioNet
